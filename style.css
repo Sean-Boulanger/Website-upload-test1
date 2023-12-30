@@ -1,0 +1,14 @@
+img {
+    margin-right: auto;
+    margin-left: auto;
+    padding: center;
+    width: 500px;
+    max-height: 50%;
+
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: rgb(200, 130, 0);
+}
